@@ -2,7 +2,9 @@
 
 
 
+'''sh 
 git clone https://github.com/r4yl1n/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+'''
 >to insert into vim conf `https://github.com/r4yl1n/kickstart.nvim.git`
 ## Introduction
 
